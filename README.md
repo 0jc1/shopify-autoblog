@@ -7,7 +7,7 @@ Configure `config.json` with your API and store details, and desired configurati
 
 Run the main script to start the program.
 ```bash
-    python3 main.py
+python3 main.py
 ```
 
 
